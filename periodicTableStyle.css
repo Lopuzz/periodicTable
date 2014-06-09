@@ -1,0 +1,52 @@
+td{
+	height: 60px;
+	width: 60px;
+	border: 2px solid black;
+}
+.alkaliMetals{
+	background: #bebebe;
+}
+.alkalineEarthMetals{
+	background:#33ff33;
+}
+.transitionalMetals{
+	background: #ccff00;
+}
+.nonmetals{
+	background: #33cccc;
+}
+.otherMetals{
+	background: #ff33cc;
+}
+.nobelGases{
+	background: #ff6633;
+}
+.clear{
+	opacity: 0;
+}
+.atomicNumber{
+	display: inline-block;
+	font-size: large;
+	height: 0px;
+	margin-top: 0px;
+}
+.atomicWeight{
+	display: inline-block;
+	float: right;
+	font-size: small;
+	margin-top: 0px;
+	height: 0px;
+}
+.symbol{
+	text-align: center;
+	font-size: x-large;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 3px;
+	height: 5px;
+}
+.elementName{
+	margin-bottom: 0px;
+	font-size:: small;
+	text-align: center;
+}
